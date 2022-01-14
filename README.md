@@ -1,0 +1,1 @@
+# ZABBIX---Open-Source-Inventory-Software-for-Infraestruture-Monitoring
